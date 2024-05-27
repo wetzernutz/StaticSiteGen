@@ -1,6 +1,6 @@
 from typing import override, Union, Any
 
-from htmlnode import HTMLNode
+from src.nodes.htmlnode import HTMLNode
 
 
 class LeafNode(HTMLNode):

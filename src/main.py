@@ -1,4 +1,4 @@
-from textnode import TextNode
+from src.nodes.textnode import TextNode
 
 
 def main():
@@ -7,5 +7,5 @@ def main():
     print(node)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
